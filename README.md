@@ -7,7 +7,7 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 ## Requirements
 
 - [Node and npm](http://nodejs.org)
-
+<!--- comment -->
 ## Installation
 
 1. Clone the repository: `git clone git@github.com:scotch-io/node-todo`
